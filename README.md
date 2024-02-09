@@ -36,4 +36,7 @@ Since the beginning of my training as a web developer I have been updating mysel
 ### Badges
 
 <b>My GitHub Stats</b>
-<a href="http://www.github.com/Bedknobs"><img src="https://github-readme-stats.vercel.app/api?username=Bedknobs&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="Bedknobs's GitHub stats" /></a><a href="https://github.com/Bedknobs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedknobs&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/Bedknobs"><img src="https://github-readme-stats.vercel.app/api?username=Bedknobs&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="Bedknobs's GitHub stats" /></a>
+
+<a href="https://github.com/Bedknobs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedknobs&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
