@@ -1,4 +1,4 @@
-Hi 👋 My name is Noelia Rey Silva
+Hi 👋 My name is Noelia Rey
 =================================
 
 Fullstack developer
